@@ -37,7 +37,7 @@ Working on cutting-edge projects involving microcontrollers, sensor integration,
 - **Email:** fatemeh.sadouni@gmail.com
 
 ## 🎯 Goals
-Imagine a world where every electronic device not only responds but adapts and learns.
+Imagine a world where every device not only responds but adapts and learns.
 
 
 ## ⚡ Fun Fact
