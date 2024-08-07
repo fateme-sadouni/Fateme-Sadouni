@@ -41,7 +41,8 @@ Imagine a world where every device not only responds but adapts and learns.
 
 
 ## ⚡ Fun Fact
-My fascination to world where technology does everything has made me a huge fan of sci-fi movies and books. too many creative ideas are inspired by these stories.
+🌠Science fiction movies challenge me to imagine other planets, alternative universes, and advanced technologies, which helps me think more deeply about our world.
+**too many creative ideas are inspired by these stories**
 
 
 
