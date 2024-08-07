@@ -1,5 +1,7 @@
 ## Hi there, I'm Fateme 👋
 
+![Alt Text]([URL_of_the_image_or_GIF](https://github.com/fateme-sadouni/picture))
+
 ## 💬 About Me
 I am an **Electronic Engineer** with a passion for **IoT and low-power wireless communication**. With a background in **Electrical Engineering**, I enjoy creating innovative solutions for real-world problems and exploring new technologies in **embedded systems** and **circuit design**.
 
