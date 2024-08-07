@@ -1,4 +1,4 @@
-![profile banner](https://github.com/fateme-sadouni/picture/blob/main/embedded-security-for-internet-of-things.gif)
+![profile banner](https://github.com/fateme-sadouni/picture2/blob/main/6FX.gif)
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
 
