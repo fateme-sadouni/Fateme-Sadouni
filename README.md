@@ -1,4 +1,3 @@
-<img src="[https://github.com/fateme-sadouni/picture2/blob/main/6FX.gif]" alt="Image Description" width="300" height="200"/>
 ![profile banner](https://github.com/fateme-sadouni/picture2/blob/main/6FX.gif)
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
