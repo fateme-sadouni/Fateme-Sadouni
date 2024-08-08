@@ -1,5 +1,5 @@
+<img src="6FX.gif" alt="Logo" width="300"/>
 
-![profile banner](6FX.gif)
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
 
