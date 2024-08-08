@@ -1,5 +1,5 @@
 
-![profile banner](https://github.com/fateme-sadouni/picture2/blob/main/6FX.gif)
+![profile banner](6FX.gif)
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
 
