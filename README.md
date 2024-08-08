@@ -1,4 +1,4 @@
-<img src="6FX.gif" alt="Logo" width="300"/>
+<img src="6FX.gif" alt="Logo" width="100"/>
 
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
