@@ -1,4 +1,4 @@
-<img src="C:\Users\14038\Desktop\New folder\6FX.gif.crdownload" alt="Image Description" width="300" height="200"/>
+<img src="6FX.gif.crdownload" alt="Image Description" width="300" height="200"/>
 ![profile banner](https://github.com/fateme-sadouni/picture2/blob/main/6FX.gif)
 ## Hi there, I'm Fateme 👋
 🚀 Welcome to Fateme's Tech Universe 🌌
